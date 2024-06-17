@@ -10,4 +10,4 @@ server.listen(_puerto, () => {
 	console.log(`Server running at http://localhost:${_puerto}/`);
 });
 
-// nodemos <nombre_archivo.js> para ejecutar el script automáticamente
+// nodemon <nombre_archivo.js> para ejecutar el script automáticamente
